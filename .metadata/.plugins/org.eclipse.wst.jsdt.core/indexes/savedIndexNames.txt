@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Asus\project for fsd\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1529760910.index
+146744019.index
+1068673951.index
+3652141466.index
+4080449905.index
+686249717.index

@@ -1,0 +1,17 @@
+package simplilearnFinalProject;
+
+public class LockedMe 
+{
+	public static void displaymenu()
+	{
+		System.out.println("\t****************");
+		System.out.println("\tWelcome to LockedMe.com Secure App");
+		System.out.println("Developed by : Tirtharaj Das");
+		System.out.println("\t****************");
+		System.out.println("\t\t1. Display all fles");
+		System.out.println("\t\t1. Add a new file");
+		System.out.println("\t\t1. Delete a file");
+		System.out.println("\t\t1. Search file");
+		System.out.println("\t\t1. Exit");
+	}
+}
